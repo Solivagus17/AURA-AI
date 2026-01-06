@@ -5,7 +5,7 @@
   <div align="center">
     <h1>✨ AURA AI ✨</h1>
     <p><b>Breaking Silences, Empowering Wellness</b></p>
-    <p><i>A Multilingual AI Companion for Women's Hygiene and Wellness</i></p>
+    <p><i>A Multilingual AI Companion for Women's Hygiene and Wellness </i></p>
   </div>
 
   <hr>
@@ -36,7 +36,7 @@
     </tr>
     <tr>
       <td><b>AI/NLP</b></td>
-      <td>Multi-lingual LLM Integration</td>
+      <td>Multi-lingual LLM Integration [GEMINI 2.5 FLASH LITE]</td>
     </tr>
     <tr>
       <td><b>Development Context</b></td>
