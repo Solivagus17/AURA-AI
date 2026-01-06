@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td><b>Frontend</b></td>
-      <td>HTML5, CSS3, JavaScript , GOOGLE FIREBASE AUTH for user login/sign up(Hindi/English UI)</td>
+      <td>HTML5, CSS3, TAILWIND CSS, JavaScript , GOOGLE FIREBASE AUTH for user login/sign up(Hindi/English UI)</td>
     </tr>
     <tr>
       <td><b>AI/NLP</b></td>
